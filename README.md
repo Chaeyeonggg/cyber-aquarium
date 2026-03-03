@@ -15,5 +15,5 @@ sns의 어떤 사이버 아쿠아리움에 영감을 받고 제작하게 된 데
 🖼️ Assets
 + aesprite로 직접 제작 & itch
 
-✨ Ai
+✨ AI
 + gemini
