@@ -12,8 +12,8 @@ sns의 어떤 사이버 아쿠아리움에 영감을 받고 제작하게 된 데
 + PyQt5
 + PyInstaller
 
-🖼️ 에셋
+🖼️ Assets
 + aesprite로 직접 제작 & itch
 
-✨ 사용한 ai
+✨ Ai
 + gemini
